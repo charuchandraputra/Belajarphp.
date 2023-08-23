@@ -1,0 +1,5 @@
+<?php
+echo "<h2>PHP itu menyenangkan!</h2>";
+echo "sugeng enjang!<br>";
+echo "saya sedang belajar PHP!<br>";
+echo "Ini adalah","string(kalimat)","yang","dibuat","dengan beberapa komponen";?>
